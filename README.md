@@ -15,4 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<a href="https://trendshift.io/developers/6037" target="_blank"><img src="https://trendshift.io/api/badge/developers/6037" alt="Loyalsoldier profile | Trendshift" style="width: 250px; height: 55px;" width="250" height="55"/></a>
+
 [![Loyalsoldier's Github Stats](https://github-readme-stats-fast.vercel.app/api?username=Loyalsoldier&count_private=true&show_icons=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
